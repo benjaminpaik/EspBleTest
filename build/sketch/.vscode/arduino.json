@@ -1,0 +1,9 @@
+#line 1 "C:\\Users\\benja\\Documents\\Arduino\\EspBleTest\\.vscode\\arduino.json"
+{
+    "sketch": "EspBleTest.ino",
+    "configuration": "JTAGAdapter=default,CDCOnBoot=default,PartitionScheme=default,CPUFreq=160,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none,EraseFlash=none,ZigbeeMode=default",
+    "board": "esp32:esp32:esp32c3",
+    "output": "./build",
+    "port": "COM4",
+    "programmer": "esptool"
+}
